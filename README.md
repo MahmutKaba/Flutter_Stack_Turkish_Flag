@@ -2,9 +2,11 @@
 This Flutter Project shows drawing Turkish Flag by using Stack Widget
 
 ##Using
+---
 *Stack
-*Fumction
+*Function
 *Theme
+*center
 ---
 ### Mahmut Kaba
 
